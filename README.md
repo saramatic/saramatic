@@ -1,4 +1,4 @@
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sarahmarie1976)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/saramatic)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sholle7@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sholle7)
@@ -41,13 +41,13 @@ Hi, I'm **Sarahmarie Hollenstein** — a creative mind with a passion for DIY pr
     <br /><br /> <!-- Add extra space between the images and badges -->
     <img alt="Hello Kitty GIF" src="https://gifdb.com/images/high/hello-kitty-hello-greeting-hqsxgj1ka0bnqu2t.gif" width="90%" height="auto" style="margin-bottom: 20px;" />
     <br /><br /> <!-- Add extra space between the images and badges -->
-    <img src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=sarahmarie1976&hide=stars&show_icons=true&hide_border=true&theme=midnight-purple" width="90%" style="margin-bottom: 20px;" />
+    <img src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=saramatic&hide=stars&show_icons=true&hide_border=true&theme=midnight-purple" width="90%" style="margin-bottom: 20px;" />
     <br /><br /> <!-- Add extra space between the images and badges -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmarie1976&hide=smalltalk&theme=midnight-purple&layout=compact&hide_border=true" width="90%" style="margin-bottom: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saramatic&hide=smalltalk&theme=midnight-purple&layout=compact&hide_border=true" width="90%" style="margin-bottom: 20px;" />
     <br /><br /> <!-- Add extra space between the images and badges -->
     <div align="center" style="margin-top: 20px;">
-        <img src="https://img.shields.io/github/followers/sarahmarie1976?style=social" alt="GitHub followers" style="margin-right: 10px;" />
-        <img src="https://komarev.com/ghpvc/?username=sarahmarie1976&color=blueviolet" alt="Profile views" />
+        <img src="https://img.shields.io/github/followers/saramatic?style=social" alt="GitHub followers" style="margin-right: 10px;" />
+        <img src="https://komarev.com/ghpvc/?username=saramatic&color=blueviolet" alt="Profile views" />
     </div>
 </p>
 
@@ -87,5 +87,5 @@ Hi, I'm **Sarahmarie Hollenstein** — a creative mind with a passion for DIY pr
 #### 🤝 Connect with me:
 - **LinkedIn:** [Sarahmarie Hollenstein](https://www.linkedin.com/in/sarahmarie-hollenstein-258374115/)
 - **Email:** [sholle7@gmail.com](mailto:sholle7@gmail.com)
-- **GitHub:** [sarahmarie1976](https://github.com/sarahmarie1976)
+- **GitHub:** [saramatic](https://github.com/saramatic)
 - **Twitter:** [@sholle7](https://twitter.com/sholle7)
