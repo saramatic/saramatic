@@ -30,7 +30,7 @@ Hi, I'm **Sarahmarie Hollenstein** — a creative mind with a passion for DIY pr
 
 #### 🛠️ Skills:
 - Troubleshooting, Help Desk Support, Communication, Next.js, React Native, Customer Support, Market Research, Documentation  
-- Fullstack Development, Heroku, Rende.com, GitHub, Flexbox, Whimsical, DBDesigner, Tailwind.css, Ant Design  
+- Fullstack Development, Heroku, Render.com, GitHub, Flexbox, Whimsical, DBDesigner, Tailwind.css, Ant Design  
 - React Validator, Yup, Cypress, Web Development, React Strap, Microsoft Office and Excel  
 - Training, Management, Team Building, E-Commerce, Leadership  
 
